@@ -28,5 +28,5 @@ This project demonstrates how to generate a Solana keypair, store the secret key
 To run the script and print the keypair information, use the following command:
 
 ```sh
-ts-node
+npx esrun generate-keypair.ts
 ```
